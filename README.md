@@ -3,7 +3,8 @@ the second school project
 
 
 file sharing website:
-
+	links: https://github.com/reallyrehan/flask-fileexplorer
+		https://www.youtube.com/watch?v=qIK-vfTig6c&ab_channel=ProgrammersBuddy
 	usecase:
 		be able to orginise and save fach relevante files
 	
